@@ -22,3 +22,5 @@ Recurrent Neural Networks with Long Short-Term Memory](http://www.aclweb.org/ant
 
 ### BioCreative VI Chemprot Challenge
 
+Chemprot dataset was released as part of the Biocreative VI chemical protein interaction track.
+
