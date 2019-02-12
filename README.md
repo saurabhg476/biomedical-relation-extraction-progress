@@ -29,8 +29,9 @@ Chemprot dataset was released as part of the Biocreative VI chemical protein int
 Biocreative VI Challenge Overview Paper: [Overview of the BioCreative VI chemical-protein interaction Track](https://pdfs.semanticscholar.org/eed7/81f498b563df5a9e8a241c67d63dd1d92ad5.pdf)
 
 Important Papers:
-[Chemical-protein relation extraction with ensembles of SVM, CNN, and RNN models](https://arxiv.org/abs/1802.01255)
 
-[Chemical–gene relation extraction using recursive neural network](https://academic.oup.com/database/article/doi/10.1093/database/bay060/5042822)
+* [Chemical-protein relation extraction with ensembles of SVM, CNN, and RNN models](https://arxiv.org/abs/1802.01255)
 
-[BioBERT: a pre-trained biomedical language representation model for biomedical text mining](https://arxiv.org/pdf/1901.08746.pdf)([code](https://github.com/dmis-lab/biobert))
+* [Chemical–gene relation extraction using recursive neural network (https://academic.oup.com/database/article/doi/10.1093/database/bay060/5042822)
+
+* [BioBERT: a pre-trained biomedical language representation model for biomedical text mining](https://arxiv.org/pdf/1901.08746.pdf)([code](https://github.com/dmis-lab/biobert))
