@@ -22,5 +22,8 @@ Recurrent Neural Networks with Long Short-Term Memory](http://www.aclweb.org/ant
 
 ### BioCreative VI Chemprot Challenge
 
-Chemprot dataset was released as part of the Biocreative VI chemical protein interaction track.
+Chemprot dataset was released as part of the Biocreative VI chemical protein interaction track. It contains labelled data for chemical-protein interactions. 5 relation classes were used for evaluation purposes including agonist, antagonists, inhibitor, activator and substrate/product relations.
+
+Biocreative VI Challenge Overview Paper: [Overview of the BioCreative VI chemical-protein interaction Track](https://pdfs.semanticscholar.org/eed7/81f498b563df5a9e8a241c67d63dd1d92ad5.pdf)
+
 
