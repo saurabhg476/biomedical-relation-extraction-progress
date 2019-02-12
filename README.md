@@ -33,5 +33,4 @@ Important Papers:
 
 [Chemical–gene relation extraction using recursive neural network](https://academic.oup.com/database/article/doi/10.1093/database/bay060/5042822)
 
-[BioBERT: a pre-trained biomedical language representation model for biomedical text mining](BioBERT: a pre-trained biomedical language
-representation model for biomedical text mining)([code](https://github.com/dmis-lab/biobert))
+[BioBERT: a pre-trained biomedical language representation model for biomedical text mining](https://arxiv.org/pdf/1901.08746.pdf)([code](https://github.com/dmis-lab/biobert))
